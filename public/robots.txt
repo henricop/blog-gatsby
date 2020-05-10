@@ -1,0 +1,6 @@
+user-agent: *
+
+Allow: /
+Disallow: /404
+
+sitemap: http://henricop.netlify.com/sitemap.xml
